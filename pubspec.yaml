@@ -1,6 +1,6 @@
 name: nacl_win
 description: A flutter plugin for Windows for generating Ed25519 keys and signing messages.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/THCLab/nacl_win
 
 environment:
